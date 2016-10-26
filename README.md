@@ -1,2 +1,2 @@
 # MDEAcronyms
-Mississippi Department of Education's Acronym Glossary
+Mississippi Department of Education's Acronym documentation
