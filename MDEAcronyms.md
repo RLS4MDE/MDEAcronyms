@@ -45,6 +45,7 @@ Printable version: [MDE Acronym Glossary (PDF)](http://mdek12.org/documentation/
 | DLM                                      | Dynamic Learning Maps                    |
 | [DOC](http://www.mdoc.ms.gov/) or [MDOC](http://www.mdoc.ms.gov/) | [Mississippi Department of Corrections](http://www.mdoc.ms.gov/) |
 | DR                                       | Disaster Recovery                        |
+| [DTC or TC] (http://mdek12.org/OTSS/ET/mississippi-school-district-educational-technology-contacts---alphabetical-listing) | [District Technology Coordinator] (http://mdek12.org/OTSS/ET/mississippi-school-district-educational-technology-contacts---alphabetical-listing)|
 | DTC                                      | District Test Coordinators               |
 | **E**<a id="E"></a>                      | [![click this icon to return to top of page](http://mdek12.org/sf-images/mis-library/uparrowicon.png)](#Top) |
 | EASIE                                    | Electronic Application System for Indian Education |
@@ -204,6 +205,7 @@ Printable version: [MDE Acronym Glossary (PDF)](http://mdek12.org/documentation/
 | SY                                       | School Year                              |
 | **T**<a id="T"></a>                      | [![click this icon to return to top of page](http://mdek12.org/sf-images/mis-library/uparrowicon.png)](#Top) |
 | [TANF](http://www.mdhs.state.ms.us/temporary-assistance-for-needy-families-(tanf))) | [Temporary Assistance Program for Needy Families](http://www.mdhs.state.ms.us/temporary-assistance-for-needy-families-(tanf)) |
+| [TC or DTC] (http://mdek12.org/OTSS/ET/mississippi-school-district-educational-technology-contacts---alphabetical-listing) | [District Technology Coordinator] (http://mdek12.org/OTSS/ET/mississippi-school-district-educational-technology-contacts---alphabetical-listing)|
 | [TFA](https://en.wikipedia.org/wiki/Multi-factor_authentication) | [Two Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) |
 | TBI                                      | Traumatic Brain Injury                   |
 | [TIMS](http://www.mdek12.org/ESE/TAP/tims) | [Textbook Inventory Management System](http://www.mdek12.org/ESE/TAP/tims) |
